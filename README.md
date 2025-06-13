@@ -1,44 +1,54 @@
-## Hi there 👋, Welcome to my Github Profile
+## 👋 Hi there! Welcome to my GitHub Profile
 
+I'm **Sharad Prakash**, an aspiring **Machine Learning Engineer** with a special focus on **Computer Vision**. I'm passionate about turning data into actionable insights and building intelligent systems.
 
-Hello, I am Sharad Prakash, an aspiring ML engineer with special focus on Computer Vision.
+### 📬 Connect with me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharad-prakash117/)
+- 📊 [Kaggle](https://www.kaggle.com/sharadprakash117)
 
-Contact me: https://www.linkedin.com/in/sharad-prakash117/
+---
 
-Visit my Kaggle profile: https://www.kaggle.com/sharadprakash117
+## 🧠 Skills
 
-## Skills
-
-- **Languages**: Python,  Java, C++
-- **Frameworks**: TensorFlow, PyTorch, OpenCv
-- **Tools**: Github
+- **Languages**: Python, Java, C++
+- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV
+- **Tools**: Git, GitHub
 - **Databases**: MySQL
 
-## Certificates
-Have a look at my Certificates here:
+---
 
-[certificates](certificates/certs.md)
+## 📜 Certificates
 
+Check out some of the certifications I've earned:
+- [View Certificates](certificates/certs.md)
 
-## GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharad117&show_icons=true&theme=radical)
+## 🏆 GitHub Trophy Shelf
 
-## Contributions
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sharad117&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharad117&layout=compact&theme=radical)
+---
+
+## 📊 GitHub Stats
+
+![Sharad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharad117&show_icons=true&theme=radical&cache_seconds=60)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharad117&layout=compact&theme=radical&cache_seconds=60)
+
+---
 
 <!--
-**Sharad117/Sharad117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sharad117/Sharad117** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+You can add more sections like:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
