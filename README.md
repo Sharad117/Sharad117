@@ -10,10 +10,10 @@ I'm **Sharad Prakash**, an aspiring **Machine Learning Engineer**. I'm passionat
 
 ## 🧠 Skills
 
-- **Languages**: Python, Java, C++
-- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV
+- **Languages**: Python, C, SQL, C++
+- **Frameworks & Libraries**: PyTorch, OpenCV, LangChain, Langgraph
 - **Tools**: Git, GitHub
-- **Databases**: MySQL
+- **Databases**: PostgresQL, Firestore
 
 ---
 
