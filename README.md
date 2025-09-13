@@ -1,6 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub Profile
 
-I'm **Sharad Prakash**, an aspiring **Machine Learning Engineer** with a special focus on **Computer Vision**. I'm passionate about turning data into actionable insights and building intelligent systems.
+I'm **Sharad Prakash**, an aspiring **Machine Learning Engineer**. I'm passionate about turning data into actionable insights and building intelligent systems.
 
 ### 📬 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharad-prakash117/)
